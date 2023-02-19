@@ -53,8 +53,6 @@ public class Shoot : Component
 		textOfObject.SetTextText(x, text);
 	}
 
-	// define world intersection instance
-
 	// create a counter to show the message once
 	private void Init()
 	{
