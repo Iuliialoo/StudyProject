@@ -13,5 +13,5 @@ https://user-images.githubusercontent.com/95151966/219955180-ee3cbf52-329f-4309-
   
   https://github.com/ArkashaP - анимация, часть логики, UI
   
-Для запуска программы, необходимо зайти, либо в папку build далее в Mao_Good_Transite и запустить файл Mao_Good_Transite.exe,
+Для запуска программы, можно зайти, либо в папку build далее в Mao_Good_Transite и запустить файл Mao_Good_Transite.exe,
 либо в папке проекта запустить launch_release.bat
