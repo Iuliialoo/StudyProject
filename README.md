@@ -5,3 +5,6 @@
   https://github.com/DarkVolDem - часть логики в проекте
   https://github.com/Aronilo - 3D, окружение, модель
   https://github.com/ArkashaP - Анимация, часть логики, UI
+  
+Для запуска программы, необходимо зайти, либо в папку build далее в Mao_Good_Transite и запустить файл Mao_Good_Transite.exe,
+либо в папке проекта запустить launch_release.bat
